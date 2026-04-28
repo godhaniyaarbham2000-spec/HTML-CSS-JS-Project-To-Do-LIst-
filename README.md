@@ -3,6 +3,7 @@
 A simple and responsive **To-Do List web application** built using **HTML, CSS, and JavaScript**.  
 This project helps users manage daily tasks with add and delete functionality, along with data persistence using LocalStorage.
 
+
 ---
 
 ## 🚀 Features

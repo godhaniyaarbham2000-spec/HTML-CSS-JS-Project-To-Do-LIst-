@@ -46,9 +46,7 @@ git clone https://github.com/godhaniyaarbham2000-spec/HTML-CSS-JS-Project-To-Do-
 
 Open project folder:
 ```
-
 cd HTML-CSS-JS-Project-To-Do-List
-
 ```
 Run project:
 ```

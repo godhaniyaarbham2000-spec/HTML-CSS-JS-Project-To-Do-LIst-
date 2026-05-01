@@ -50,7 +50,6 @@ cd HTML-CSS-JS-Project-To-Do-List
 ```
 Run project:
 ```
-
 Open index.html in your browser
 ```
 

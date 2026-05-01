@@ -28,7 +28,7 @@ This project helps users manage daily tasks with add and delete functionality, a
 
 ## 📂 Project Structure
 ```
-HTML+CSS+JS Project (To-Do List)/
+HTML-CSS-JS-Project-To-Do-List/
 │
 ├── index.html    # Main structure of To-Do App
 ├── style.css     # Styling and UI design
@@ -41,13 +41,13 @@ HTML+CSS+JS Project (To-Do List)/
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/todo-list-app.git
+git clone https://github.com/godhaniyaarbham2000-spec/HTML-CSS-JS-Project-To-Do-List.git
 ```
 
 Open project folder:
 ```
 
-cd todo-list-app
+cd HTML-CSS-JS-Project-To-Do-List
 
 ```
 Run project:
